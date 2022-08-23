@@ -1,0 +1,53 @@
+{
+  "expenses": [
+    {
+      "title": "Breafast",
+      "amount": "23",
+      "type": "Debit",
+      "category": "Food",
+      "id": 37
+    },
+    {
+      "title": "Salary",
+      "amount": "65499",
+      "type": "Credit",
+      "category": "Salary",
+      "id": 38
+    },
+    {
+      "title": "Bought Shoes",
+      "amount": "500",
+      "type": "Debit",
+      "category": "Shopping",
+      "id": 39
+    },
+    {
+      "title": "Tenetur cillum aute ",
+      "amount": "79",
+      "type": "Credit",
+      "category": "Food",
+      "id": 40
+    },
+    {
+      "title": "Expedita est ipsa q",
+      "amount": "28",
+      "type": "Credit",
+      "category": "Rent",
+      "id": 41
+    },
+    {
+      "title": "Voluptatibus dolorum",
+      "amount": "100",
+      "type": "Credit",
+      "category": "Petrol",
+      "id": 42
+    },
+    {
+      "title": "new",
+      "amount": "1000",
+      "type": "Debit",
+      "category": "Rent",
+      "id": 43
+    }
+  ]
+}
